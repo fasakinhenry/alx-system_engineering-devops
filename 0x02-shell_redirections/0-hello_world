@@ -1,3 +1,2 @@
 #!/bin/bash
 echo "Hello, World"
-chmod u+x 0-hello_world
