@@ -1,3 +1,8 @@
+/*
+ * File: 102-zombie.c
+ * Auth: Brennan D Baraban
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -19,7 +24,7 @@ int infinite_while(void)
 }
 
 /**
- * main - Creates five zombies processes.
+ * main - Creates five zombie processes.
  *
  * Return: Always 0.
  */

@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-#A Bash script that displays:
-# To infinity and beyond indefinitely
-# With a sleep 2 in between each iteration
-# I am invincible!!! when receiving a SIGTERM signal
+# Displays "To infinity and beyond" indefinitely with
+#+ a sleep 2 in between each iteration.
+#   Displays "I am invincible!!!" in between each iteration.
+
 while true
 do
   echo "To infinity and beyond"
