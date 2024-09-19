@@ -30,7 +30,7 @@
 - **Stress Testing**: Enhance stress tests to simulate higher traffic loads and ensure the system can handle peak loads.
 - **Configuration Audits**: Implement periodic audits of Nginx and server configurations to prevent misconfigurations.
 
-### TODOs:
+## TODOs:
 
 1. Add memory and process limit monitoring for all production servers.
 2. Review and update Nginx server configuration to handle larger traffic loads.
