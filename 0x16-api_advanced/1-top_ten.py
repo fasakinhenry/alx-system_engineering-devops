@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for task 1"""
+"""Query reddit api to return post"""
 
 
 def top_ten(subreddit):
